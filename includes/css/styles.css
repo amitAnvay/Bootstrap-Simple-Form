@@ -1,0 +1,28 @@
+.formClass {
+ margin-top: 10%;
+}
+
+   #searchInput {
+       width: 200px;
+   }
+
+.navbar-brand {
+    padding: 13px, 15px;
+}
+   
+
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
